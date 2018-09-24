@@ -1,0 +1,7 @@
+1) One way to send data through the internet is using light via fiber optic cables. Bits are sent as waves of light
+from one place to another
+2) The DNS uses the IP address of a website to connect a user to that site.
+3) A cookie is a data packet used to track a user's use of certain sites. 
+4) The 3 basic pieces of a URL are the Protocol, the domain name and the path. e.g. in the url https://www.imdb.com, 
+https is the Protocol, imdb is the domain name and .com is the path. 
+
