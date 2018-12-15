@@ -1,0 +1,21 @@
+@font-face{
+  font-family:'LibreFranklin';
+  src: url('./fonts/LibreFranklin-Regular.ttf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family:'LibreFranklin';
+  src: url('.fonts/LibreFranklin-Bold.tff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face{
+  font-family: 'Tangerine';
+  src: url('./fonts/Tangerine/Tangerine-Regular.ttf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  margin: 0.3em;
+}
